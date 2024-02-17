@@ -20,5 +20,18 @@ Next list this packages and versios
 Next type
 <pre>pip3 list | grep setuptools</pre>
 
+Change the version of setuptools
+<pre>pip3 install setuptools==58.2.0</pre>
+
+now look it is complete
+<pre>pip3 list | grep setuptools</pre>
+
+you will see following type massege:
+
+![image](https://github.com/maduwanthasl/ros2_humble/assets/107339150/4c2b11ac-9e4d-4053-95db-4999f1e5e8e6)
+
+
+
+
 
 
