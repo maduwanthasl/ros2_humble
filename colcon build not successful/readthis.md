@@ -8,7 +8,17 @@ This instruction assumes that the user is using a Debian-based Linux distributio
 
 ![Screenshot from 2024-02-17 10-35-56](https://github.com/maduwanthasl/ros2_humble/assets/107339150/fda5e6a8-9c1f-42a6-ad88-c20eb256b381)
 
-First update the home
+First, update the system repositories:
+<pre>sudo apt update</pre>
 
-```bash
-sudo apt update
+Next, let's ensure that pip is installed:
+<pre>sudo apt install python3-pip</pre>
+
+Next list this packages and versios
+<pre>pip3 list</pre>
+
+Next type
+<pre>pip3 list | grep setuptools</pre>
+
+
+
