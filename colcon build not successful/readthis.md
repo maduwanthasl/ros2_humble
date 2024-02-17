@@ -30,6 +30,8 @@ you will see following type massege:
 
 ![image](https://github.com/maduwanthasl/ros2_humble/assets/107339150/4c2b11ac-9e4d-4053-95db-4999f1e5e8e6)
 
+Next try this
+<pre>colcon build</pre>  
 
 
 
